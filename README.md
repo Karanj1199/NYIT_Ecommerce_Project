@@ -1,6 +1,6 @@
 # NYIT_Ecommerce_Project
 
-software enginerring group project 67
+software enginerring group project 7
 
 Table of Contents
 
@@ -32,49 +32,57 @@ PyQt - user inteface framework
 FFmpeg - video processing
 3. Installation
 
-Installation:
+**Installation:**
 
 
-1) Clone the project repository: https://github.com/Karanj1199/eCommerceSite-PHP.git
+      1) Clone the project repository: https://github.com/Karanj1199/eCommerceSite-PHP.git
 
-2) Install XAMPP
+      2) Install XAMPP
 
-3) Unzip the project inside for windows C:\xampp\htdocs,  (Your download loc may vary)
+      3) Unzip the project inside for windows C:\xampp\htdocs,  (Your download loc may vary)
 
-4) Start XAMPP
+      4) Start XAMPP
 
-5) Start APACHE & MySQL
+      5) Start APACHE & MySQL
 
-6) Click on "Admin" button besides "MySQL" in XAMPP app
+      6) Click on "Admin" button besides "MySQL" in XAMPP app
 
-7) Create new database table with name: "ecommerceweb"
+      7) Create new database table with name: "ecommerceweb"
 
-8) After keeping the database "ecommerceweb" selected,import "ecommerce.sql" file from C:\xampp\htdocs\eCommerceSite-PHP\DATABASE FILE  (Your download loc may vary)
+      8) After keeping the database "ecommerceweb" selected,import "ecommerce.sql" file from C:\xampp\htdocs\eCommerceSite-PHP\DATABASE FILE  (Your download loc may vary)
 
-9) Launch the website : http://localhost/eCommerceSite-PHP/login.php  
+      9) Launch the website : http://localhost/eCommerceSite-PHP/login.php  
 
-For User login/Register
+**For User login/Register**
 
-1) Register filling info
+      1) Register filling info
 
-2) Click on "Admin" button besides "MySQL" in XAMPP app
+      2) Click on "Admin" button besides "MySQL" in XAMPP app
 
-3) Select "ecommerceweb" database which we imported.
+      3) Select "ecommerceweb" database which we imported.
 
-4) Click on "tbl_customer"
+      4) Click on "tbl_customer"
 
-5) Edit the new user by changing cust_status from "0" to "1"
+      5) Edit the new user by changing cust_status from "0" to "1"
 
-6) Login to your website
+      6) Login to your website
 
 
-For Admin login
+**For Admin login**
 
-1) http://localhost/eCommerceSite-PHP/admin/login.php
+    1) http://localhost/eCommerceSite-PHP/admin/login.php
 
-2) email: admin@mail.com
-   Password: Password@123
+    2) email: admin@mail.com
+       Password: Password@123
    
+  
+**Technologies:**
+    
+      1.Backend: PHP, JavaScript, MySQL
+   
+      2.Frontend:HTML ,CSS, Bootstrap
+   
+      3.Other Technologies: Paypal, Xampp Server(Apache)
    
    
    
@@ -90,9 +98,10 @@ v4(10 May-21 May) Merge remote-tracking branch 'origin/master' into master. Merg
 
 v5(24 May-31 May) Merge operation about course.
 
-@Jingbo Yang.
+**ScreenShots:**
 
-Contributing
+
+**Contributing**
 
 You can see our contribution here
 

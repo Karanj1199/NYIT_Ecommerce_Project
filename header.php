@@ -280,7 +280,7 @@ foreach ($result as $row) {
 	<div class="container">
 		<div class="row inner">
 			<div class="col-md-4 logo">
-				<a href="index.php"><img src="assets/uploads/<?php echo $logo; ?>" alt="logo image"></a>
+				<img src="logo1.jpeg" alt="logo image">
 			</div>
 			
 			<div class="col-md-5 right">

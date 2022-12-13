@@ -2,7 +2,7 @@
 
 <?php
 //Change Logo
-if(isset($_POST['form1'])) {
+/* if(isset($_POST['form1'])) {
     $valid = 1;
 
     $path = $_FILES['photo_logo']['name'];
@@ -42,8 +42,8 @@ if(isset($_POST['form1'])) {
         
     }
 }
-// Change Favicon
-if(isset($_POST['form2'])) {
+ */// Change Favicon
+/* if(isset($_POST['form2'])) {
     $valid = 1;
 
     $path = $_FILES['photo_favicon']['name'];
@@ -83,7 +83,7 @@ if(isset($_POST['form2'])) {
         
     }
 }
-//Footer & Contact us page
+ *///Footer & Contact us page
 if(isset($_POST['form3'])) {
     
     // updating the database
@@ -890,8 +890,8 @@ foreach ($result as $row) {
                             
                 <div class="nav-tabs-custom">
                     <ul class="nav nav-tabs">
-                        <li class="active"><a href="#tab_1" data-toggle="tab">Logo</a></li>
-                        <li><a href="#tab_2" data-toggle="tab">Favicon</a></li>
+                       <!--  <li class="active"><a href="#tab_1" data-toggle="tab">Logo</a></li>
+                        <li><a href="#tab_2" data-toggle="tab">Favicon</a></li> -->
                         <li><a href="#tab_3" data-toggle="tab">Footer & Contact</a></li>
                         <li><a href="#tab_4" data-toggle="tab">Message Settings</a></li>
                         <li><a href="#tab_5" data-toggle="tab">Products</a></li>
@@ -902,10 +902,10 @@ foreach ($result as $row) {
                        <!--<li><a href="#tab_11" data-toggle="tab">Ads</a></li>-->
                     </ul>
                     <div class="tab-content">
-                        <div class="tab-pane active" id="tab_1">
+                        <div class="tab-pane active" id="tab_1"> 
 
 
-                            <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
+                           <!--  <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
                             <div class="box box-info">
                                 <div class="box-body">
                                     <div class="form-group">
@@ -929,11 +929,11 @@ foreach ($result as $row) {
                                 </div>
                             </div>
                             </form>
-
+ -->
                             
 
 
-                        </div>
+                      <!--   </div>
                         <div class="tab-pane" id="tab_2">
 
                             <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
@@ -960,10 +960,8 @@ foreach ($result as $row) {
                                 </div>
                             </div>
                             </form>
+ -->
 
-
-                        </div>
-                        <div class="tab-pane" id="tab_3">
 
                             <form class="form-horizontal" action="" method="post">
                             <div class="box box-info">

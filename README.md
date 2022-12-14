@@ -3,15 +3,9 @@
 software enginerring group project 7
 
 
-1. Description
+**Description**
+
 An e-commerce website made as part of the project in the course software engineering from New york Institute of Technology.
-
-**Technologies:**
-
-Backend: PHP, MYSQL, JAVASCRIPT
-Frontend: HTML, CSS, BOOTSTRAP
-Other Technologies: Xampp Server(Apache)
-
 
 **Installation:**
 

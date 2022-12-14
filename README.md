@@ -85,7 +85,9 @@ An e-commerce website made as part of the project in the course software enginee
 
 You can see our contribution here
 
-Contributors
+Contributors:
+
+
 1.Karan Patel — kpate312@nyit.edu
 
 2.Arthi Reddy — akolanu@nyit.edu

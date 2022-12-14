@@ -3,9 +3,40 @@
 software enginerring group project 7
 
 
+
 **Description**
 
 An e-commerce website made as part of the project in the course software engineering from New york Institute of Technology.
+
+**Features:**
+
+      Client-Side Interaction
+      Admin Panel
+      Customer Registration
+      Add to Cart System
+      Checkout System
+      Update Billing Address
+      Search, Filter Products
+      Product Categories
+      Featured Products
+      Latest Products
+      Popular Products
+      View Order History
+      Update Customer Profile
+      Manage Website Settings
+      Manage Shop Settings
+      Product Management
+      Order Management
+      Pending Orders, Shippings
+      Set up Image Sliders
+      Set Shipping Charges
+      Page Settings
+      Set Social Media Links
+      Subscribers
+      View Registered Customers
+      
+
+**Development:**
 
 **Installation:**
 
@@ -32,22 +63,17 @@ An e-commerce website made as part of the project in the course software enginee
 
       1) Register filling info
 
-      2) Click on "Admin" button besides "MySQL" in XAMPP app
+      2) Once admin verifies the account by making it active from admin panel
 
-      3) Select "ecommerceweb" database which we imported.
+      3) User needs to login
 
-      4) Click on "tbl_customer"
-
-      5) Edit the new user by changing cust_status from "0" to "1"
-
-      6) Login to your website
 
 
 **For Admin login**
 
     1) http://localhost/eCommerceSite-PHP/admin/login.php
 
-    2) email: admin@mail.com
+    2) email: NYIT_SEteam@gmail.com
        Password: Password@123
    
   
@@ -57,7 +83,7 @@ An e-commerce website made as part of the project in the course software enginee
    
       2.Frontend:HTML ,CSS, Bootstrap
    
-      3.Other Technologies: Paypal, Xampp Server(Apache)
+      3.Other Technologies: Xampp Server(Apache)
    
    
   

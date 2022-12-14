@@ -38,6 +38,16 @@ An e-commerce website made as part of the project in the course software enginee
 
 **Development:**
 
+1) Sprint planning - Based on our project requirement we allocated some time among our team mates to plan the development of the project giving priority to work for the project irrespective of all the other workload and busy life schedule. 
+
+2) System development - We decided on the technologies and system development tools for development of the website namely making a system design based on the CSS framework, PHP, HTML & JavaScript languages. 
+
+3) Testing - After developing the website we did a test on each functionality of the system to make sure they are working as planned.
+
+4) Sprint review - Once Testing was done we had a review with all the team members and demonstration was done. The feedback obtained from each team mate was later then tried to inculcate in the project. 
+
+
+
 **Installation:**
 
 

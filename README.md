@@ -2,24 +2,9 @@
 
 software enginerring group project 7
 
-Table of Contents
-
-Background
-Install
-Usage
-Generator
-Changelog
-Maintainers
-Contributing
-License
-
-
 
 1. Description
 An e-commerce website made as part of the project in the course software engineering from New york Institute of Technology.
-
-2. Features and functionality
-
 
 **Technologies:**
 
@@ -84,7 +69,6 @@ Other Technologies: Xampp Server(Apache)
   
 
 **ScreenShots:**:
-
 
 
 

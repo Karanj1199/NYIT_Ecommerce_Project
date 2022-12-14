@@ -20,17 +20,13 @@ An e-commerce website made as part of the project in the course software enginee
 
 2. Features and functionality
 
-Detection
-Categorization
-Possibility to run on different models
-Frame skipping & interpolation
-3. Technologies used
 
-Python Language - application logic
-OpenCV - object detecion framwork
-PyQt - user inteface framework
-FFmpeg - video processing
-3. Installation
+**Technologies:**
+
+Backend: PHP, MYSQL, JAVASCRIPT
+Frontend: HTML, CSS, BOOTSTRAP
+Other Technologies: Xampp Server(Apache)
+
 
 **Installation:**
 
@@ -85,20 +81,11 @@ FFmpeg - video processing
       3.Other Technologies: Paypal, Xampp Server(Apache)
    
    
-   
-Changelog
+  
 
-v1(29 March—9 April) Implement the log in verification. CustomerDaoImpl has a lot of redundant code in the multiple methods. It is also simpler to convert the commonly used variables into member variables and initialize them in the constructor. The rest of the DAO layer recommendations follow this approach
+**ScreenShots:**:
 
-v2(12 April — 25 April) Add two JavaBeans, Course and Video, and aggregate the Course collection into the Customer and Trainer classes. The CustomerDaoImpl constructor is not rigorous enough and has been modified. Add customer deleting function. Improve TrainerDaoImpl and other implementation. Add VideoWrapper. Add .idea to gitignore. Prevent to commit the .idea/ directory into git. To achieve video playback function, see TestVideo. Java for specific call.
 
-v3(26 April—9 May) Implement TrainerSchedule page presentation course. Show Coach Information. User registration and information verification function. Improve the front-end page.
-
-v4(10 May-21 May) Merge remote-tracking branch 'origin/master' into master. Merge new front end.
-
-v5(24 May-31 May) Merge operation about course.
-
-**ScreenShots:**
 
 
 **Contributing**

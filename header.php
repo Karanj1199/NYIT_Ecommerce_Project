@@ -132,7 +132,7 @@ foreach ($result as $row) {
 	
 	if($cur_page == 'index.php' || $cur_page == 'login.php' || $cur_page == 'registration.php' || $cur_page == 'cart.php' || $cur_page == 'checkout.php' || $cur_page == 'forget-password.php' || $cur_page == 'reset-password.php' || $cur_page == 'product-category.php' || $cur_page == 'product.php') {
 		?>
-		<title><?php echo $meta_title_home; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $meta_keyword_home; ?>">
 		<meta name="description" content="<?php echo $meta_description_home; ?>">
 		<?php
@@ -140,21 +140,21 @@ foreach ($result as $row) {
 
 	if($cur_page == 'about.php') {
 		?>
-		<title><?php echo $about_meta_title; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $about_meta_keyword; ?>">
 		<meta name="description" content="<?php echo $about_meta_description; ?>">
 		<?php
 	}
 	if($cur_page == 'faq.php') {
 		?>
-		<title><?php echo $faq_meta_title; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $faq_meta_keyword; ?>">
 		<meta name="description" content="<?php echo $faq_meta_description; ?>">
 		<?php
 	}
 	if($cur_page == 'contact.php') {
 		?>
-		<title><?php echo $contact_meta_title; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $contact_meta_keyword; ?>">
 		<meta name="description" content="<?php echo $contact_meta_description; ?>">
 		<?php
@@ -175,35 +175,35 @@ foreach ($result as $row) {
 
 	if($cur_page == 'dashboard.php') {
 		?>
-		<title>Dashboard - <?php echo $meta_title_home; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $meta_keyword_home; ?>">
 		<meta name="description" content="<?php echo $meta_description_home; ?>">
 		<?php
 	}
 	if($cur_page == 'customer-profile-update.php') {
 		?>
-		<title>Update Profile - <?php echo $meta_title_home; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $meta_keyword_home; ?>">
 		<meta name="description" content="<?php echo $meta_description_home; ?>">
 		<?php
 	}
 	if($cur_page == 'customer-billing-shipping-update.php') {
 		?>
-		<title>Update Billing and Shipping Info - <?php echo $meta_title_home; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $meta_keyword_home; ?>">
 		<meta name="description" content="<?php echo $meta_description_home; ?>">
 		<?php
 	}
 	if($cur_page == 'customer-password-update.php') {
 		?>
-		<title>Update Password - <?php echo $meta_title_home; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $meta_keyword_home; ?>">
 		<meta name="description" content="<?php echo $meta_description_home; ?>">
 		<?php
 	}
 	if($cur_page == 'customer-order.php') {
 		?>
-		<title>Orders - <?php echo $meta_title_home; ?></title>
+		<title>BLINKIT</title>
 		<meta name="keywords" content="<?php echo $meta_keyword_home; ?>">
 		<meta name="description" content="<?php echo $meta_description_home; ?>">
 		<?php
